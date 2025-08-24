@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinnícius Kelmy
+# Vinnícius Kelmy
 
 **`Mobile Developer`**
 
