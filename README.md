@@ -1,6 +1,7 @@
-# Vinnícius Kelmy
+# Yo 👍 Vinnícius Kelmy here!
 
-**`Mobile Developer`**
+Sou um desenvolvedor full-stack e estou cursando Sistemas de Informação na Universidade Federal do Piauí.
+
 
 ---
 
